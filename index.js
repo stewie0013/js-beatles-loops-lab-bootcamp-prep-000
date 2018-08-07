@@ -25,5 +25,3 @@ function iLoveTheBeatles(number) {
   
   return array
 }
-
-console.log("fuck bitches get money")
